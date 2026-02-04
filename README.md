@@ -1,2 +1,30 @@
-# real-estate-investment-trust-analysis
-Financial analysis of two REITs (SBRA &amp; EQR) using NumPy. Calculates daily simple and log returns, annualized returns, variance, standard deviation, and correlation from adjusted closing prices. Demonstrates basic quantitative finance concepts with Python.
+# REIT Return Analysis with NumPy
+
+This project analyzes two Real Estate Investment Trusts (REITs), SBRA and EQR, using NumPy.
+
+Daily simple returns and logarithmic returns are calculated from adjusted closing prices. The project then computes:
+
+- Average daily simple returns  
+- Annualized log returns (252 trading days)  
+- Daily variance (sample variance)  
+- Daily standard deviation (sample standard deviation)  
+- Correlation between SBRA and EQR  
+
+The goal is to demonstrate basic financial analysis using NumPy, including return calculations, risk metrics, and correlation.
+
+## Technologies
+- Python
+- NumPy
+
+## Features
+- CSV price data loading
+- Simple and log return calculations
+- Annualized return estimation
+- Variance and volatility measurement
+- Correlation analysis
+
+## How to Run
+
+1. Install NumPy:
+```bash
+pip install numpy

@@ -28,6 +28,6 @@ The goal is to demonstrate basic financial analysis using NumPy, including retur
 1. Install NumPy,
 pip install numpy
 2. Place data files,
-Put SBRA.csv and EQR.csv in the project root folder.
+put SBRA.csv and EQR.csv in the project root folder.
 3. Run the Script,
 python main.py

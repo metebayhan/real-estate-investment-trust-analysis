@@ -30,4 +30,4 @@ pip install numpy
 2. Place data files
 Put SBRA.csv and EQR.csv in the project root folder.
 3. Run the Script
-pyhton main.py
+python main.py
